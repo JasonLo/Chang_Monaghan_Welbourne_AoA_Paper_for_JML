@@ -1,2 +1,2 @@
 load('6ksem.mat')
-csvwrite('wordNet_6229.txt', semantic_vector)
+csvwrite('wordNet_6229.csv', semantic_vector)
